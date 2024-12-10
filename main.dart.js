@@ -67975,7 +67975,7 @@ K(a){var s=null
 return new A.Fm(B.bj,A.aks(A.es(A.a([B.x2,A.eS(s,B.Lg,B.z,B.bj,s,s,s,s,s,s,s,s,s)],t.p),B.C,B.E)),s)}}
 A.Fo.prototype={
 K(a){var s=null,r=A.d0(50),q=A.a([B.at,B.ch],t.O)
-return A.eS(s,new A.Eg(A.d0(50),A.ajL("images/profile.JPG",B.jt,s,s),s),B.z,s,s,new A.ct(s,s,s,r,B.Hc,new A.f5(B.b2,B.aU,B.aK,q,s,s),B.a_),s,100,s,B.EU,s,s,100)}}
+return A.eS(s,new A.Eg(A.d0(50),A.ajL("assets/images/profile.JPG",B.jt,s,s),s),B.z,s,s,new A.ct(s,s,s,r,B.Hc,new A.f5(B.b2,B.aU,B.aK,q,s,s),B.a_),s,100,s,B.EU,s,s,100)}}
 A.pi.prototype={
 K(a){var s=null
 return new A.ex(B.kP,A.ez(A.a([A.cp(this.c,s,s,B.dI),A.cp(this.d,s,s,s)],t.p),B.C,B.eF,B.N),s)}}
